@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://gdmbd.sasohan.workers.dev/AbhiX_ROG_Edition_V2_20.9.24.zip
-  ROM_NAME: MIUI
-  ZIP_NAME: MIUI-ROG-V2
+  ROM_URL: https://downloads.sourceforge.net/project/makhk/Lavender/DotOSv5/dotOS-R-v5.0.0-lavender-UNOFFICIAL-20201011-0547.zip?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fmakhk%2Ffiles%2FLavender%2FDotOSv5%2FdotOS-R-v5.0.0-lavender-UNOFFICIAL-20201011-0547.zip%2Fdownload&ts=1602536764
+  ROM_NAME: Generic
+  ZIP_NAME: DotOS-5.0
   TZ: Asia/Kolkata
   MIR: wet
 jobs:
