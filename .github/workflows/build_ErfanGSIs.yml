@@ -14,11 +14,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://download.c.realme.com/osupdate/RMX1901EX_11_OTA_1040_all_BbUuFdfQYcIr.ozip
-  ROM_NAME: ColorOS
-  ZIP_NAME: Realmeme
+  ROM_URL: https://builds.introdructor.works/revengeos/RevengeOS-4.0-R-OFFICIAL-ginkgo-20201012-1253.zip
+  ROM_NAME: Generic
+  ZIP_NAME: RevengeOS-11
   TZ: Asia/Kolkata
-  MIR: bit
+  MIR: wet
 jobs:
   build:
     runs-on: ubuntu-latest
