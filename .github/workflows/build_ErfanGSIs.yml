@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://builds.introdructor.works/revengeos/RevengeOS-4.0-R-OFFICIAL-ginkgo-20201012-1253.zip
-  ROM_NAME: Generic
-  ZIP_NAME: RevengeOS-11
+  ROM_URL: https://gdmbd.sasohan.workers.dev/AbhiX_ROG_Edition_V2_20.9.24.zip
+  ROM_NAME: MIUI
+  ZIP_NAME: MIUI-ROG-V2
   TZ: Asia/Kolkata
   MIR: wet
 jobs:
