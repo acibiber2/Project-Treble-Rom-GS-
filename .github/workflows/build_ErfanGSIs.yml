@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://downloads.sourceforge.net/project/makhk/Lavender/DotOSv5/dotOS-R-v5.0.0-lavender-UNOFFICIAL-20201011-0547.zip?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fmakhk%2Ffiles%2FLavender%2FDotOSv5%2FdotOS-R-v5.0.0-lavender-UNOFFICIAL-20201011-0547.zip%2Fdownload&ts=1602536764
+  ROM_URL: https://downloads.sourceforge.net/project/facoco/test/AospExtended-v8.0-lavender-20201008-1042-UNOFFICIAL.zip?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Ffacoco%2Ffiles%2Ftest%2FAospExtended-v8.0-lavender-20201008-1042-UNOFFICIAL.zip%2Fdownload&ts=1602537330
   ROM_NAME: Generic
-  ZIP_NAME: DotOS-5.0
+  ZIP_NAME: Aex 8.0
   TZ: Asia/Kolkata
   MIR: wet
 jobs:
