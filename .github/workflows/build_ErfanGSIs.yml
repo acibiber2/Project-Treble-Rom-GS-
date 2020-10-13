@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://downloads.sourceforge.net/project/octavi-os/raphael/OctaviOS-v1.1-raphael-20201013-Official.zip?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Foctavi-os%2Ffiles%2Fraphael%2FOctaviOS-v1.1-raphael-20201013-Official.zip%2Fdownload&ts=1602611854
+  ROM_URL: https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MDIwNzYwMTYiLCJ1IjpudWxsLCJsdCI6ImRvd25sb2FkIiwicyI6IjRhN2U0YzVhN2ZmYzQxNmZjOWRiM2MzNDNmZGExYTY0YTU4M2QwNjgzYTkzYjE3OWQ2OWRlNmM0Y2JkMzI1NTdhMWUwYWI1YmY0MjJlYzc5MzE0YzU5ZjUwNzdkZjA4Y2VmMDFjNmQ2ZmUyZDlhMmFjZWUwNzIyOWFkODlkYzE2IiwidCI6MTYwMjYxNjI3MSwic3RmcCI6IjI4ZDBjMzFhYmI4NGI2ZDAwNWMzMTg4ODRmMjQ0ODUwIiwic3RpcCI6Ijk1LjEyLjExNC4xNjgifQ.MxiokolsxtN1MSHPzWrNr8G8pu29fS7QGrV6hsfR404/ExtendedUI-2.0-R-OFFICIAL-ginkgo-20201007-0845.zip
   ROM_NAME: Generic
-  ZIP_NAME: OctaviOS Beta v1.1 | Android 11
+  ZIP_NAME: ExtendedUI-2.0-R
   TZ: Asia/Kolkata
   MIR: wet
 jobs:
