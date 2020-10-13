@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://downloads.sourceforge.net/project/pixelextended/Raphael/PixelExtended_raphael-11-20201013-0837-OFFICIAL.zip?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fpixelextended%2Ffiles%2FRaphael%2FPixelExtended_raphael-11-20201013-0837-OFFICIAL.zip%2Fdownload&ts=1602598405rceforge.net%2Fprojects%2Fshivatejapeddi%2Ffiles%2FA11%2FAospExtended-v8.0-beryllium-20200924-0928-UNOFFICIAL.zip%2Fdownload&ts=1602597578
+  ROM_URL: https://dl.raaj52.workers.dev/DerpFest-11-Official-Alpha-raphael-nightly-20201005.zip
   ROM_NAME: Generic
-  ZIP_NAME: PixelExtended-11
+  ZIP_NAME: Derpfest
   TZ: Asia/Kolkata
   MIR: wet
 jobs:
