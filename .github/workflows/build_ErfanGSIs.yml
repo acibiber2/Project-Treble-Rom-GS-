@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://bigota.d.miui.com/V12.0.2.0.QEJMIXM/miui_POCOF1Global_V12.0.2.0.QEJMIXM_ce099a7067_10.0.zip
-  ROM_NAME: MIUI
-  ZIP_NAME: Poco F1 Global Stable V12.0.2.0
+  ROM_URL: https://downloads.sourceforge.net/project/octavi-os/raphael/OctaviOS-v1.1-raphael-20201013-Official.zip?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Foctavi-os%2Ffiles%2Fraphael%2FOctaviOS-v1.1-raphael-20201013-Official.zip%2Fdownload&ts=1602611854
+  ROM_NAME: Generic
+  ZIP_NAME: OctaviOS Beta v1.1 | Android 11
   TZ: Asia/Kolkata
   MIR: wet
 jobs:
