@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://riggleman.mark41stark.workers.dev//ZenFoneEdition_v5_miui12_X00TD-by@Vicky.zip
-  ROM_NAME: MIUI
-  ZIP_NAME: MIUI12 Zenfone Edition v5
+  ROM_URL: https://downloads.sourceforge.net/project/shivatejapeddi/A11/AospExtended-v8.0-beryllium-20200924-0928-UNOFFICIAL.zip?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fshivatejapeddi%2Ffiles%2FA11%2FAospExtended-v8.0-beryllium-20200924-0928-UNOFFICIAL.zip%2Fdownload&ts=1602597578
+  ROM_NAME: Generic
+  ZIP_NAME: AEX-8.0
   TZ: Asia/Kolkata
   MIR: wet
 jobs:
