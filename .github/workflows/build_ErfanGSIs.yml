@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://downloads.msmxtended.org/lavender/Xtended-XR-v1.0-lavender-OFFICIAL-20201013.zip
-  ROM_NAME: Generic
-  ZIP_NAME: MsmXtended - XR
+  ROM_URL: http://bigota.d.miui.com/V12.0.2.0.QEJMIXM/miui_POCOF1Global_V12.0.2.0.QEJMIXM_ce099a7067_10.0.zip
+  ROM_NAME: MIUI
+  ZIP_NAME: Poco F1 Global Stable V12.0.2.0
   TZ: Asia/Kolkata
   MIR: wet
 jobs:
