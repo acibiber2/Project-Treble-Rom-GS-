@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://downloads.sourceforge.net/project/shivatejapeddi/A11/AospExtended-v8.0-beryllium-20200924-0928-UNOFFICIAL.zip?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fshivatejapeddi%2Ffiles%2FA11%2FAospExtended-v8.0-beryllium-20200924-0928-UNOFFICIAL.zip%2Fdownload&ts=1602597578
+  ROM_URL: https://downloads.sourceforge.net/project/pixelextended/Raphael/PixelExtended_raphael-11-20201013-0837-OFFICIAL.zip?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fpixelextended%2Ffiles%2FRaphael%2FPixelExtended_raphael-11-20201013-0837-OFFICIAL.zip%2Fdownload&ts=1602598405rceforge.net%2Fprojects%2Fshivatejapeddi%2Ffiles%2FA11%2FAospExtended-v8.0-beryllium-20200924-0928-UNOFFICIAL.zip%2Fdownload&ts=1602597578
   ROM_NAME: Generic
-  ZIP_NAME: AEX-8.0
+  ZIP_NAME: PixelExtended-11
   TZ: Asia/Kolkata
   MIR: wet
 jobs:
