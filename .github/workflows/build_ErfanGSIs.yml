@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://downloads.sourceforge.net/project/lineage-fe/X00TD/LineageFE-v10.69-20201013-X00TD-Isotope.zip?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Flineage-fe%2Ffiles%2FX00TD%2FLineageFE-v10.69-20201013-X00TD-Isotope.zip%2Fdownload&ts=1602662293
-  ROM_NAME: Generic
-  ZIP_NAME: LineageOS-FE
+  ROM_URL: http://bigota.d.miui.com/V12.0.2.0.QEJMIXM/miui_POCOF1Global_V12.0.2.0.QEJMIXM_ce099a7067_10.0.zip
+  ROM_NAME: MIUI
+  ZIP_NAME: POCO-F1-MIUI12
   TZ: Asia/Kolkata
   MIR: wet
 jobs:
