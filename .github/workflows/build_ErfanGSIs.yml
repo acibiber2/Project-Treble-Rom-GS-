@@ -15,7 +15,7 @@ on:
     
 env:
   ROM_URL: https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus8Oxygen/OnePlus8Oxygen_15.E.30_GLO_0300_2009301818/OnePlus8Oxygen_15.E.30_OTA_0300_all_2009301818_e9aef8a82.zip
-  ROM_NAME: OxygenOS
+  ROM_NAME: Generic
   ZIP_NAME: OxygenOS-11
   TZ: Asia/Kolkata
   MIR: wet
