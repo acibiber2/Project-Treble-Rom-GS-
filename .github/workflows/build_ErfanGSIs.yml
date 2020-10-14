@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus8Oxygen/OnePlus8Oxygen_15.E.30_GLO_0300_2009301818/OnePlus8Oxygen_15.E.30_OTA_0300_all_2009301818_e9aef8a82.zip
-  ROM_NAME: Generic
-  ZIP_NAME: OxygenOS-11
+  ROM_URL: https://downloads.sourceforge.net/project/tech-office/Redmi-4-Santoni/MIPhone-OS_1.2_HM4X_12-10.zip?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Ftech-office%2Ffiles%2FRedmi-4-Santoni%2FMIPhone-OS_1.2_HM4X_12-10.zip%2Fdownload&ts=1602708527
+  ROM_NAME: MIUI
+  ZIP_NAME: MiPhoneOS
   TZ: Asia/Kolkata
   MIR: wet
 jobs:
