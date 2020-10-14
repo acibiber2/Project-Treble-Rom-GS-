@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://bigota.d.miui.com/20.10.13/miui_UMI_20.10.13_fa7b389840_11.0.zip
-  ROM_NAME: MIUI
-  ZIP_NAME: MIUI - 11
+  ROM_URL: https://downloads.sourceforge.net/project/lineage-fe/X00TD/LineageFE-v10.69-20201013-X00TD-Isotope.zip?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Flineage-fe%2Ffiles%2FX00TD%2FLineageFE-v10.69-20201013-X00TD-Isotope.zip%2Fdownload&ts=1602662293
+  ROM_NAME: Generic
+  ZIP_NAME: LineageOS-FE
   TZ: Asia/Kolkata
   MIR: wet
 jobs:
