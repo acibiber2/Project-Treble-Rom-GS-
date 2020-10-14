@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://downloads.sourceforge.net/project/realmex/AEX/AospExtended-v8.0-RMX1901-20201010-UNOFFICIAL.zip?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Frealmex%2Ffiles%2FAEX%2FAospExtended-v8.0-RMX1901-20201010-UNOFFICIAL.zip%2Fdownload&ts=1602688947
-  ROM_NAME: Generic
-  ZIP_NAME: AEX-8.0
+  ROM_URL: https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus8Oxygen/OnePlus8Oxygen_15.E.30_GLO_0300_2009301818/OnePlus8Oxygen_15.E.30_OTA_0300_all_2009301818_e9aef8a82.zip
+  ROM_NAME: OxygenOS
+  ZIP_NAME: OxygenOS-11
   TZ: Asia/Kolkata
   MIR: wet
 jobs:
