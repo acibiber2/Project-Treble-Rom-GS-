@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://bigota.d.miui.com/V9.6.5.0.ODTMIFD/miui_MI8LiteGlobal_V9.6.5.0.ODTMIFD_08f05adb8a_8.1.zip
-  ROM_NAME: MIUI
-  ZIP_NAME: Miui9_GSİ_V9.6.5.0
+  ROM_URL: https://oxygenos.oneplus.net/OnePlus8ProOxygen_15_OTA_0120_all_2009181219_67c7f509b51d4279.zip
+  ROM_NAME: OxygenOS
+  ZIP_NAME: OxygenOS_Oneplus8Pro_opBeta2_GSI
   TZ: Asia/Kolkata
   MIR: wet
 jobs:
