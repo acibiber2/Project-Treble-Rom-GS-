@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://mor1.androidfilehost.com/dl/gmN2QuDUvLQYgMPYCpFUaQ/1602799429/8889791610682945845/MIUIPLUS_LAVENDER.20.9.24.A10.M12.zip?
+  ROM_URL: http://bigota.d.miui.com/V9.6.5.0.ODTMIFD/miui_MI8LiteGlobal_V9.6.5.0.ODTMIFD_08f05adb8a_8.1.zip
   ROM_NAME: MIUI
-  ZIP_NAME: MiuiPLUS_GSI_20.9.24_A10M12
+  ZIP_NAME: Miui9_GSİ_V9.6.5.0
   TZ: Asia/Kolkata
   MIR: wet
 jobs:
