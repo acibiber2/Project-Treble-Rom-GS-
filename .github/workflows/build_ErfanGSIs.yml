@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://bigota.d.miui.com/V10.3.5.0.PFGMIXM/miui_LAVENDERGlobal_V10.3.5.0.PFGMIXM_a5cabeca22_9.0.zip
+  ROM_URL: https://nav.dl.sourceforge.net/project/xiaomi-eu-multilang-miui-roms/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv12/xiaomi.eu_multi_HMK20ProMI9TPro_V12.0.5.0.QFKCNXM_v12-10.zip
   ROM_NAME: MIUI
-  ZIP_NAME: MIUI_V10.3.5.0_PFGMIXM_LAVENDERGLOBALİMAGES
+  ZIP_NAME: MIUI_V12.0.5.0_qfkcnxm_RAPHAELCHINAIMAGES_EU.STABLE_GSIBUILD
   TZ: Asia/Kolkata
   MIR: wet
 jobs:
