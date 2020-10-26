@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://nav.dl.sourceforge.net/project/xiaomi-eu-multilang-miui-roms/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv12/xiaomi.eu_multi_HMK20ProMI9TPro_V12.0.5.0.QFKCNXM_v12-10.zip
+  ROM_URL: https://s252vla.storage.yandex.net/rdisk/270edf5ad652e07101d8dbea783c48715f86eebe22def355bc8b7e4d67938c5e/5f974375/Av7yVleztnw7sFG-Vu0QQyep5DCZ8Al75NyTkEqmf4p9jZpmRtAcCEclpT5tVZf93OicGPUvkfufYWhrdgNJoQ==?uid=0&filename=MIUITR_20.10.1_MI9TPRO_RAPHAEL_M12-A10.zip&disposition=attachment&hash=pFFB4wyMpZWGUteN0rIT5U5LbaWYqumCbR7kMVMuSbj8CTL5NM716Y%2BPUcFfOxDgq/J6bpmRyOJonT3VoXnDag%3D%3D&limit=0&content_type=application%2Fzip&owner_uid=226448624&fsize=2199050168&hid=f2d8fb5dab8e46d066bd8dd3fa0c063d&media_type=compressed&tknv=v2&rtoken=ld3K6fv1WUyD&force_default=no&ycrid=na-83ed7dbfc7598d2b9ffb4c9de1b88964-downloader16e&ts=5b299d9100740&s=1e7504a911ffd3eb05eb1f93b704b2759e716940e55349d9c89d83ae3fbd8801&pb=U2FsdGVkX1_Ls11cla4mZ2cI4iQ-iC-JhbsYn97txpePof5ARvTIVoRBAXbhlAzMXqNPXHObhmxOy1fifndz7sl-537uw1oNk-mD2kRltIg
   ROM_NAME: MIUI
-  ZIP_NAME: MIUI_V12.0.5.0_qfkcnxm_RAPHAELCHINAIMAGES_EU.STABLE_GSIBUILD
+  ZIP_NAME: OnlyFans_specialforcess_:))_20.10.1_raphaelMIUITR
   TZ: Asia/Kolkata
   MIR: wet
 jobs:
